@@ -1,0 +1,12 @@
+USBHelperLauncher 0.15b Changelog:
+
+* Added patch to override public key, reduces launch time compared to the previous method
+* Renamed runtime argument `--nopatch` to `--nokey`
+* Realigned debug message headers
+
+**Note**: Newtonsoft.Json and SharpCompress are not included as they already come with Wii U USB Helper.
+Real purchased donation keys will not work, though infinite new ones can be generated.
+This can be turned off by running the launcher with the argument `--nokey`.
+
+**Executable SHA-256**: f7bc8c86db1cc42a46c25504b0c5267e8cd809739f4ce12898cb010c161330fd
+**Discord:** https://discord.io/usbhelperlauncher

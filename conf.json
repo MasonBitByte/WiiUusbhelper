@@ -1,0 +1,23 @@
+{
+  "Launcher": {
+    "DoNotModify": "0.15b",
+    "HostsExpert": false,
+    "ShowUpdateNag": true,
+    "ShowHostsWarning": false,
+    "ShowCloudWarning": true,
+    "SessionBufferSize": 1000,
+    "SessionSizeLimit": 64000,
+    "EndpointFallbacks": {
+      "ContentEndpoint": "https://cdn.shiftinv.cc/wiiuusbhelper/cdn/"
+    },
+    "TitleKeys": {
+      "wiiu": "titlekeys.ovh"
+    }
+  },
+  "Injector": {
+    "DisableOptionalPatches": false,
+    "MaxRetries": 3,
+    "DelayBetweenRetries": 0,
+    "Portable": false
+  }
+}
